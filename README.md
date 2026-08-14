@@ -1,7 +1,6 @@
-a
 <div align="center">
 
-# PentesterLinuxPro
+# LinuxPro
 
 ## Cybersécurité, Linux et Intelligence Artificielle
 
@@ -12,7 +11,7 @@ a
 
 <br>
 
-Bienvenue dans le catalogue pédagogique de ma chaîne YouTube **PentesterLinuxPro**.
+Bienvenue dans le catalogue pédagogique de ma chaîne YouTube **LinuxPro-Offensive&defensive**.
 
 Vous y trouverez des vidéos consacrées à Linux, à la cybersécurité, à l’intelligence artificielle et à la sécurité des systèmes.
 
