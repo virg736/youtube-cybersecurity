@@ -1,5 +1,5 @@
 a
-# PentesterLinuxPro — Cybersécurité, Linux et IA
+# PentesterLinuxPro - Cybersécurité, Linux et IA
 
 Bienvenue dans le catalogue pédagogique de ma chaîne YouTube **PentesterLinuxPro**.
 
