@@ -1,7 +1,7 @@
 a
 # PentesterLinuxPro - Cybersécurité, Linux et IA
 
-Bienvenue dans le catalogue pédagogique de ma chaîne YouTube **PentesterLinuxPro**.
+Bienvenue dans le catalogue pédagogique de ma chaîne YouTube **LinuxPro-Offensive&Defensive**.
 
 Vous y trouverez des vidéos consacrées à Linux, à la cybersécurité, à l’intelligence artificielle et à la sécurité des systèmes.
 
