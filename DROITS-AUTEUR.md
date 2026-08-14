@@ -1,6 +1,6 @@
-# Droits d’auteur — Vidéos et éléments visuels
+# Droits d’auteur - Vidéos et éléments visuels
 
-© 2026 Virginie Lechene — Tous droits réservés.
+© 2026 Virginie Lechene - Tous droits réservés.
 
 Les vidéos, miniatures, images, descriptions et autres éléments visuels présentés ou référencés dans ce dépôt restent la propriété de leur auteure.
 
