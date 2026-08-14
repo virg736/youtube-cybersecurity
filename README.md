@@ -6,7 +6,6 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-LinuxPro--Offensive%26defensive-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@linuxprocybersecurity)
 <br>
-[![YouTube](https://img.shields.io/badge/YouTube-PentesterLinuxPro-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@linuxprocybersecurity)
 ![Cybersécurité](https://img.shields.io/badge/Cybersécurité-Éducation-0078D4?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Intelligence artificielle](https://img.shields.io/badge/IA-Innovation-7C3AED?style=for-the-badge)
