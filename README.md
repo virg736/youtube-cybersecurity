@@ -117,4 +117,4 @@ Consultez le fichier [LICENSE](LICENSE) pour obtenir davantage d’informations.
 
 ---
 
-© 2026 PentesterLinuxPro — Tous droits réservés pour les vidéos et les éléments visuels.
+© 2026 Virginie Lechene - Tous droits réservés pour les vidéos et les éléments visuels.
