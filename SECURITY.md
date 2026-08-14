@@ -1,4 +1,4 @@
-# Politique de sécurit
+# Politique de sécurité
 
 ## Signaler un problème de sécurité
 
