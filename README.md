@@ -18,6 +18,10 @@ Vous y trouverez des vidéos consacrées à Linux, à la cybersécurité, à l�
 ### [▶️ Découvrir la chaîne YouTube](https://youtube.com/@linuxprocybersecurity)
 
 </div>
+<p align="center">
+© 2026 Virginie Lechene 
+</p>
+
 
 ---
 
